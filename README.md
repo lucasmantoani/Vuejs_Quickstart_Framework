@@ -1,7 +1,7 @@
 # Vuejs_Quickstart_framework
 VueJs Framework , using only .html .css and .js, made to start a projets without using .vue files in case you cannot, or if you want to discover VueJs by the easy way, with no NPM.
 
-*Framework Vuejs, utilisant seulement des fichiers .html .css et .js, de façon à démarrer un projet en Vuejs sans utiliser de .vue si vous ne pouvez pas, ou si vous voulez essayer Vuejs de façon simple, sans NPM. *
+*Framework Vuejs, utilisant seulement des fichiers .html .css et .js, de façon à démarrer un projet en Vuejs sans utiliser de .vue si vous ne pouvez pas, ou si vous voulez essayer Vuejs de façon simple, sans NPM.*
 
 ## How it works
 The Single File Components Vuejs files are made with 3 parts :
