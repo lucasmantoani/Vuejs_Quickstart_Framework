@@ -12,8 +12,16 @@ The Single File Components Vuejs files are made with 3 parts :
 
 Most part of the time, a VueJs project is made with files like :
 
- - Index.html, where goes all the component that we're using
+ - Index.html, where goes all the components that we're using
  - App.vue, the Single File Component that we've seen above
  - Index.js, where we are creating a New Vue, and where are imported Vue and the App file.
+
+With the Quickstart_framework, Vuejs project folder will look like :
+
+ - Index.html, where goes all the components that we're using.
+ - Index.css, where goes the CSS of the HTML page
+ - Vjm[applicationName].js, the Main component, all the component of the page wi
+ - VjcComponent1.js, a VueJs component, children of the Main component.
+ - VjcComponent1.css, the CSS file of the component.
 
 (Next comming soon)
