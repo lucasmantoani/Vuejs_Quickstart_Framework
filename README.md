@@ -24,4 +24,4 @@ With the Quickstart_framework, Vuejs project folder will look like :
  - VjcComponent1.js, a VueJs component, children of the Main component.
  - VjcComponent1.css, the CSS file of the component.
 
-(Next comming soon)
+(Next comming soon.)
