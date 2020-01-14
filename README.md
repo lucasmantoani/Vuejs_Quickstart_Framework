@@ -26,3 +26,4 @@ With the Quickstart_framework, Vuejs project folder will look like :
 
 Soon will be avaliable a snippet file, in order to create quickly a Main and a Component file,
 with basic Vuejs function ready to work and instructions to use them.
+(Avaliable in february 2020)
